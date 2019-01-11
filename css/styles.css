@@ -1,0 +1,18 @@
+.header{
+
+  border: 10px solid #676B82;
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #676B82;
+}
+.header img{
+  size: 70%;
+  float:right;
+}
+.maincontainer{
+  clear: both;
+  margin: 10px;
+}
+hr{
+  border-radius: 3px;
+}
