@@ -10,7 +10,7 @@ _A portfolio webpage/resume_
 
 ## Setup/Installation Requirements
 
-_Clone repository by using "git clone(repository link)."
+_Clone repository by using "git clone(https://pzanchuk.github.io/Portfolio/)."
 Navigate to "Portfolio" directory.
 Open in Atom or preferred text editor._
 
