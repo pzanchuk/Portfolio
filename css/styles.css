@@ -1,22 +1,63 @@
 .header{
 
-  border: 10px solid #676B82;
-  border-radius: 15px;
-  margin: 10px;
-  background-color: #676B82;
+  border: 1px solid #bababa;;
+  border-radius: 10px;
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: #1c3959;
+  padding: 15px;
+  padding-right: 50px;
+
+
+
 }
 .header img{
-  size: 70%;
+  width: 200px;
+  height: 200px;
   float:right;
 }
 .maincontainer{
+
   clear: both;
-  margin: 10px;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 .sepline{
-border: 2px solid black;
+border: 2px solid #1c3959;
+border-radius: 10px;
 
 }
+
+.leftcol{
+  background-color: #a3a3a3;
+  border: 1px solid #d1d1d1;
+  border-radius: 15px;
+  border-color: #bababa;
+  height: 1000px;
+}
+.rightcol{
+  background-color: #d1d1d1;
+  border: 1px solid #d1d1d1;
+  border-radius: 15px;
+  border-color: #bababa;
+  height: 1000px;
+}
+.headerText{
+  padding-bottom: 1px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: #eaeaea;
+}
+.title{
+  font-weight: bold;
+  color: #353638;
+}
+.company{
+  font-style: italic;
+  color: #4f5356;
+}
+
 .dates{
   float: right;
+  color: #4f5356;
 }
