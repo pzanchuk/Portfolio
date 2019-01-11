@@ -13,6 +13,10 @@
   clear: both;
   margin: 10px;
 }
-hr{
-  border-radius: 3px;
+.sepline{
+border: 2px solid black;
+
+}
+.dates{
+  float: right;
 }
