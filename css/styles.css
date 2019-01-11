@@ -27,18 +27,17 @@ border-radius: 10px;
 }
 
 .leftcol{
-  background-color: #a3a3a3;
-  border: 1px solid #d1d1d1;
+  background-color: #d1d1d1;
+  border: 1px solid #bababa;
   border-radius: 15px;
-  border-color: #bababa;
-  height: 1000px;
+
 }
 .rightcol{
   background-color: #d1d1d1;
   border: 1px solid #d1d1d1;
   border-radius: 15px;
   border-color: #bababa;
-  height: 1000px;
+
 }
 .headerText{
   padding-bottom: 1px;
@@ -48,7 +47,7 @@ border-radius: 10px;
 }
 .title{
   font-weight: bold;
-  color: #353638;
+  color: #276877;
 }
 .company{
   font-style: italic;
@@ -58,4 +57,14 @@ border-radius: 10px;
 .dates{
   float: right;
   color: #4f5356;
+}
+.rowHeight{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.heads{
+  color: #353638;
 }
