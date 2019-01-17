@@ -1,5 +1,4 @@
 .header{
-
   border: 1px solid #bababa;;
   border-radius: 10px;
   margin-left: 15%;
@@ -7,19 +6,21 @@
   background-color: #1c3959;
   padding: 15px;
   padding-right: 50px;
-
 }
+
 .header img{
   width: 200px;
   height: 200px;
   float:right;
 }
+
 .maincontainer{
 
   clear: both;
   margin-left: 15%;
   margin-right: 15%;
 }
+
 .sepline{
 border: 2px solid #1c3959;
 border-radius: 10px;
@@ -32,6 +33,7 @@ border-radius: 10px;
   border-radius: 15px;
 
 }
+
 .rightcol{
   background-color: #d1d1d1;
   border: 1px solid #d1d1d1;
@@ -39,16 +41,19 @@ border-radius: 10px;
   border-color: #bababa;
 
 }
+
 .headerText{
   padding-bottom: 1px;
   font-family: Helvetica;
   font-weight: bold;
   color: #eaeaea;
 }
+
 .title{
   font-weight: bold;
   color: #276877;
 }
+
 .company{
   font-style: italic;
   color: #4f5356;
@@ -58,6 +63,7 @@ border-radius: 10px;
   float: right;
   color: #4f5356;
 }
+
 .rowHeight{
   display: -webkit-box;
   display: -webkit-flex;
