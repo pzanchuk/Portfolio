@@ -17,7 +17,7 @@ To download:
 Click "Download" button. A folder with all the files will be downloaded in .zip format.
 To clone:
 Open up terminal on your MAC(Git Bash needs to be installed on PC) and type in: "git clone https://github.com/pzanchuk/Portfolio"
-A folder named Portfolio will be created in your current directory
+A folder named Portfolio will be created in your current directory_
 
 ## Known Bugs
 
